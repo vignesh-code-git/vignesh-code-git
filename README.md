@@ -1,4 +1,4 @@
-# Vignesh TP
+# Vighnesh TP
 
 ## 💫 About Me
 
