@@ -1,7 +1,7 @@
 # Vighnesh TP
 
-### AI Software Engineer | AI Engineer | AI Full Stack Engineer
----
+## AI Software Engineer | AI Engineer | AI Full Stack Engineer
+
 ## 💫 About Me
 
 Hi, I'm Vighnesh, an **AI Software Engineer** passionate about building intelligent solutions, solving real-world problems, and exploring emerging AI technologies.
