@@ -64,9 +64,6 @@ Hi, I'm Vighnesh, an **AI Software Engineer** passionate about building intellig
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
-
-## ⚙️ Engineering & APIs
-
 ![REST APIs](https://img.shields.io/badge/REST%20APIs-02569B?style=flat&logo=fastapi&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
 ![AI API Integration](https://img.shields.io/badge/AI%20API%20Integration-412991?style=flat&logo=openai&logoColor=white)
