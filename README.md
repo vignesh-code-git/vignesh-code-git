@@ -6,41 +6,24 @@
 
 AI Software Engineer focused on building practical and intelligent applications with **Generative AI, Large Language Models (LLMs), RAG, and AI Agents**.
 
-I enjoy turning ideas into real-world software by combining **AI, backend development, frontend technologies, and databases**. I'm continuously learning and building solutions around modern AI engineering and LLM-powered applications.
+I enjoy turning ideas into real-world software by combining **AI, backend development, frontend technologies, and databases**. I'm passionate about building useful AI-powered applications and continuously improving my skills in modern AI engineering.
 
 ## 💻 Tech Stack
 
-### 🤖 AI & Machine Learning
+![Python](https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Next.js](https://img.shields.io/badge/next.js-000000?style=flat&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/react-61DAFB?style=flat&logo=react&logoColor=black)
+![HTML5](https://img.shields.io/badge/html5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-1572B6?style=flat&logo=css3&logoColor=white)
+![Django](https://img.shields.io/badge/django-092E20?style=flat&logo=django&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-000000?style=flat&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/render-46E3B7?style=flat&logo=render&logoColor=black)
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-
-**AI Skills:** Generative AI · Large Language Models (LLMs) · RAG · AI Agents · NLP
-
-### 🌐 Frontend
-
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### ⚙️ Backend
-
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-### 🗄️ Database
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### ☁️ Tools & Deployment
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
+**AI:** Generative AI · LLMs · RAG · AI Agents · NLP
 
 ## 📊 GitHub Status
 
@@ -50,30 +33,34 @@ I enjoy turning ideas into real-world software by combining **AI, backend develo
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=vignesh-code-git&hide_border=true)
 
+## 🏆 GitHub Achievements
+
+Building consistently, contributing to projects, and growing as an **AI Software Engineer** through hands-on development and continuous learning.
+
 ## 📂 GitHub Repositories
 
 Explore my projects and development work:
 
-🔗 **[View All Repositories](https://github.com/vignesh-code-git?tab=repositories)**
+[![Repositories](https://img.shields.io/badge/View%20All%20Repositories-181717?style=flat&logo=github&logoColor=white)](https://github.com/vignesh-code-git?tab=repositories)
 
-## 🏆 GitHub Achievements
+## 🚀 Projects
 
-Continuously building, contributing, and improving my skills in **AI Software Engineering and modern application development**.
+### IntelliHire — AI Job Portal & CV Optimizer
 
-## 📚 Currently Learning
+AI-powered job portal for job recommendations, CV generation, and intelligent resume optimization.
 
-`Advanced RAG` · `Agentic AI` · `LLM Application Development` · `AI Engineering`
+**Tech:** Python · Django · Next.js · React · PostgreSQL · Generative AI
+
+<!-- Add more projects here -->
 
 ## 💼 Social
 
-🔗 **[LinkedIn](https://www.linkedin.com/in/vighneshdev/)**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vighneshdev/)
 
 ## 🌐 Portfolio
 
-🚀 **[vighnesh-dev.com](https://vighnesh-dev.com/)**
-
-Explore my projects, skills, experience, and AI engineering work.
+[![Portfolio](https://img.shields.io/badge/Portfolio-vighnesh--dev.com-181717?style=flat&logo=google-chrome&logoColor=white)](https://vighnesh-dev.com/)
 
 ---
 
-### 💡 Building AI solutions. Learning continuously. Creating with purpose.
+### Building AI solutions · Learning continuously · Creating with purpose
