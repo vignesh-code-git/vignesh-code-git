@@ -1,4 +1,4 @@
-# Vignesh TP
+# Vighnesh TP | AI Software Engineer | AI Engineer | AI FullStack Engineer
 
 ## 💫 About Me
 
@@ -71,12 +71,6 @@ Hi, I'm Vighnesh, an **AI Software Engineer** passionate about building intellig
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
 ![AI API Integration](https://img.shields.io/badge/AI%20API%20Integration-412991?style=flat&logo=openai&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat&logo=githubactions&logoColor=white)
-
-## 🎓 Leadership & Workshops
-
-**Team Lead — CRM Project**, coordinated the team, managed tasks, guided project development.
-
-**Workshop Lead — Firebase**, conducted a hands-on deployment workshop, mentored **25+ peers**.
 
 ## 📊 GitHub Status
 
