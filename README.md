@@ -1,17 +1,12 @@
 # Vignesh TP
 
-### AI Software Engineer | AI Engineer | AI Full-Stack Engineer
-
 ## 💫 About Me
 
-Hi, I'm Vighnesh, an **AI Software Engineer**, passionate about AI, innovation, and building practical solutions.
+Hi, I'm Vighnesh, an **AI Software Engineer** passionate about building intelligent solutions, solving real-world problems, and exploring emerging AI technologies.
 
 ## 🏆 AI Certifications
 
-- **IBM**
-- **TCS**
-- **Anthropic**
-- **Accenture**
+[![IBM](https://img.shields.io/badge/IBM-1261FE?style=flat&logo=ibm&logoColor=white)](https://www.ibm.com/) [![TCS iON](https://img.shields.io/badge/TCS%20iON-0052CC?style=flat&logo=tata&logoColor=white)](https://www.tcsion.com/) [![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=flat&logo=anthropic&logoColor=white)](https://www.anthropic.com/) [![Accenture](https://img.shields.io/badge/Accenture-A100FF?style=flat&logo=accenture&logoColor=white)](https://www.accenture.com/)
 
 ## 🌐 Social
 
@@ -19,8 +14,8 @@ Hi, I'm Vighnesh, an **AI Software Engineer**, passionate about AI, innovation, 
 
 ## ✨ AI & Machine Learning
 
-![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-412991?style=flat&logo=openai&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-7C3AED?style=flat&logo=google&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-00A8E8?style=flat&logo=googledeepmind&logoColor=white)
 ![Supervised Learning](https://img.shields.io/badge/Supervised%20Learning-2563EB?style=flat&logo=scikitlearn&logoColor=white)
 ![Unsupervised Learning](https://img.shields.io/badge/Unsupervised%20Learning-7C3AED?style=flat&logo=scikitlearn&logoColor=white)
 ![Neural Networks](https://img.shields.io/badge/Neural%20Networks-FF6F00?style=flat&logo=pytorch&logoColor=white)
@@ -42,16 +37,16 @@ Hi, I'm Vighnesh, an **AI Software Engineer**, passionate about AI, innovation, 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=black)
 
 ## 🛠️ Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white)
@@ -59,6 +54,8 @@ Hi, I'm Vighnesh, an **AI Software Engineer**, passionate about AI, innovation, 
 ![Material UI](https://img.shields.io/badge/Material%20UI-007FFF?style=flat&logo=mui&logoColor=white)
 ![Framer Motion](https://img.shields.io/badge/Framer%20Motion-0055FF?style=flat&logo=framer&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
@@ -68,13 +65,18 @@ Hi, I'm Vighnesh, an **AI Software Engineer**, passionate about AI, innovation, 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
 
+## ⚙️ Engineering & APIs
+
+![REST APIs](https://img.shields.io/badge/REST%20APIs-02569B?style=flat&logo=fastapi&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
+![AI API Integration](https://img.shields.io/badge/AI%20API%20Integration-412991?style=flat&logo=openai&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat&logo=githubactions&logoColor=white)
+
 ## 🎓 Leadership & Workshops
 
-**Team Lead — CRM Project**  
-Led the team in developing a CRM project, coordinating tasks and guiding feature implementation.
+**Team Lead — CRM Project**, coordinated the team, managed tasks, guided project development.
 
-**Workshop Lead**  
-Conducted a hands-on Firebase deployment workshop, mentoring **25+ peers** in web development and cloud hosting.
+**Workshop Lead — Firebase**, conducted a hands-on deployment workshop, mentored **25+ peers**.
 
 ## 📊 GitHub Status
 
