@@ -1,3 +1,5 @@
+# Vignesh TP
+
 ## 💫 About Me
 
 Hi, I'm Vighnesh, an **AI Software Engineer** passionate about building intelligent solutions, solving real-world problems, and exploring emerging AI technologies.
@@ -14,10 +16,10 @@ Hi, I'm Vighnesh, an **AI Software Engineer** passionate about building intellig
 
 ![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-7C3AED?style=flat&logo=google&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-00A8E8?style=flat&logo=googledeepmind&logoColor=white)
-![Supervised Learning](https://img.shields.io/badge/Supervised%20Learning-2563EB?style=flat&logo=scikitlearn&logoColor=white)
-![Unsupervised Learning](https://img.shields.io/badge/Unsupervised%20Learning-7C3AED?style=flat&logo=scikitlearn&logoColor=white)
+![Supervised Learning](https://img.shields.io/badge/Supervised%20Learning-2563EB?style=flat)
+![Unsupervised Learning](https://img.shields.io/badge/Unsupervised%20Learning-7C3AED?style=flat)
 ![Neural Networks](https://img.shields.io/badge/Neural%20Networks-FF6F00?style=flat&logo=pytorch&logoColor=white)
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-EE4C2C?style=flat&logo=deeplearning&logoColor=white)
 ![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=flat&logo=huggingface&logoColor=black)
 ![Generative AI](https://img.shields.io/badge/Generative%20AI-8E75B2?style=flat&logo=google&logoColor=white)
 ![LLMs](https://img.shields.io/badge/LLMs-000000?style=flat&logo=openai&logoColor=white)
@@ -62,6 +64,9 @@ Hi, I'm Vighnesh, an **AI Software Engineer** passionate about building intellig
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
+
+## ⚙️ Engineering & APIs
+
 ![REST APIs](https://img.shields.io/badge/REST%20APIs-02569B?style=flat&logo=fastapi&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
 ![AI API Integration](https://img.shields.io/badge/AI%20API%20Integration-412991?style=flat&logo=openai&logoColor=white)
@@ -70,7 +75,3 @@ Hi, I'm Vighnesh, an **AI Software Engineer** passionate about building intellig
 ## 📊 GitHub Status
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=vignesh-code-git&theme=dark&hide_border=true)
-
----
-
-### Building AI solutions · Developing with purpose · Learning continuously
