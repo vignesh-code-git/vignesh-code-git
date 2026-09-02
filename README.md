@@ -1,4 +1,5 @@
-# Vighnesh TP | AI Software Engineer | AI Engineer | AI FullStack Engineer
+# Vighnesh TP 
+AI Software Engineer | AI Engineer | AI FullStack Engineer
 
 ## 💫 About Me
 
